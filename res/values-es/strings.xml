@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Voodoo OTA RootKeeper</string>
+    <string name="introduction_title">Introducción:</string>
+    <string name="introduction">Esta app guarda una copia protegida de \"su\"
+		para dispositivos que han sido rooteados.\nSi tu pierdes los permisos root despues
+		de una actualización, RootKeeper puede restaurarlos.</string>
+    <string name="works_with_title">Trabaja con:</string>
+    <string name="works_with">Cualquier dispositivoque use sistema de archivos Ext3 o Ext4 o Google
+		incremental OTA update.zip</string>
+    <string name="useless_with_title">Inútil con:</string>
+    <string name="useless_with">Dispositivos Samsung actualizados via KIES o Odin y antiguos 			dispositivos que usen sistemas de archivos YAFFS.</string>
+    <string name="status_title">Status:</string>
+    <string name="superuser_apk_installed">App Superuser instalada</string>
+    <string name="device_rooted">Dispositivo rooteado</string>
+    <string name="permission_granted">Permiso Root garantizado</string>
+    <string name="fs_supported">Sistema compatible con protección root</string>
+    <string name="su_protected">Copia su protegida disponible</string>
+    <string name="install_market">Market</string>
+    <string name="protect_root">Protege root</string>
+    <string name="restore_root">Restaura root</string>
+    <string name="backup_root">Backup root</string>
+    <string name="toast_su_protected">root su protegido</string>
+    <string name="toast_su_backup">root su simple backup completado</string>
+    <string name="toast_su_restore">root su restaurado</string>
+    <string name="toast_su_delete_backup">root su backup borrado</string>
+    <string name="toast_unroot">Dispositivo des-rooteado! (con backup)</string>
+    <string name="delete_backup">Borra su backup</string>
+    <string name="unroot">Temp. des-root (mantiene backup)</string>
+
+</resources>
